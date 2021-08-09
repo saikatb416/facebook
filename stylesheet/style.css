@@ -1,0 +1,162 @@
+body{
+    background-color: #e0e4ee;
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+.header{
+    background-color: #405D9B;
+    height: 80px;
+    width: 100%;
+}
+.header-left{
+    font-size: 40px;
+    position: absolute;
+    top: 3%;
+    left: 180px;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.header-right-email{
+    position: absolute;
+    right: 490px;
+    top: 12px;
+    font-size: 12px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+}
+.header-right-password{
+    position: absolute;
+    right: 360px;
+    top: 12px;
+    font-size: 12px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+}
+.header-right{
+    position: absolute;
+    right: 105px;
+    top: 36px;
+}
+.header-right-input-email{
+    width: 150px;
+    height: 25px;
+    border: .5px solid black;
+}
+.header-right-input-password{
+    width: 150px;
+    height: 25px;
+    border: .5px solid black;
+    margin-left: 5px;
+}
+.header-right-input-Login{
+    height: 25px;
+    background-color: royalblue;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.header-right-input-Login:hover{
+    height: 25px;
+    background-color: mediumblue;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.forgetten{
+    color:white;
+    text-decoration: none;
+    position: relative;
+    top: 22px;
+    left: -210px;
+    font-size: 12px;
+    font-family:Helvetica, Arial, sans-serif; 
+}
+.forgetten:hover{
+    text-decoration: underline;  
+}
+.left{
+    width: 55%;
+    position: absolute;
+    top: 20%;
+    left: 13%;
+}
+.body-left{
+    font-size: 20px;
+    width: 300px;
+    font-family: Helvetica, Arial, sans-serif; 
+    color:#133C62;
+}
+.right{
+    width: 45%;
+    position: absolute;
+    top: 16%;
+    left: 56%;
+    
+}
+.span-1{
+    font-family: Helvetica, Arial, sans-serif; 
+    color: #373737;
+    font-size: 40px;
+}
+.span-2{
+    font-family: Helvetica, Arial, sans-serif; 
+    color: #373737;
+    font-size: 20px;
+}
+.input-first{
+    height: 30px;
+    width: 180px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    font-size: 20px;
+}
+.input-email{
+    height: 30px;
+    width: 366px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    font-size: 20px;
+}
+.input-password{
+    height: 30px;
+    width: 366px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    font-size: 20px;
+}
+.birthday{
+    font-size: 18px;
+    font-family: Helvetica, Arial, sans-serif; 
+    color: #3c3033;
+}
+section{
+    height: 30px;
+    width: 55px;
+    padding: 6px;
+}
+a{
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif; 
+    font-size: 12px;
+}
+.sin{
+    height: 36px;
+    width: 120px;
+    color: #fff;
+    background-color: #609421;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.sin:hover{
+    height: 36px;
+    width: 120px;
+    color: #fff;
+    background-color: green;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+            
